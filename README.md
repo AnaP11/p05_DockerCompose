@@ -1,5 +1,3 @@
-La entrega consiste en un enlace a un repositorio en GitHub con un directorio por aplicación o servicio a desplegar (según el caso), y un README.md con instrucciones para cada despliegue en local (muchas veces no basta con lanzar el comando docker compose up -d, sino que hay que hacer otras configuraciones adicionales) y referencias de donde se haya obtenido la información. Para su calificación se clonará el repositorio y se ejecutarán las instrucciones que se hayan indicado. 
-
 ***
 # INTRODUCCIÓN
 
