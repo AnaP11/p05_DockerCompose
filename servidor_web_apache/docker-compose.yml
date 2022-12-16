@@ -1,0 +1,9 @@
+version: 'latest'
+services:
+  apache:
+    container_name: p05_serv_apache_anaponce
+    image: httpd
+    ports:
+      - 8080:80
+    volumes:
+      - .:/var/www/html

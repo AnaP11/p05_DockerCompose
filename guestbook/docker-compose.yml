@@ -1,0 +1,12 @@
+version: 'latest'
+services:
+  guestbook_app:
+    container_name: guestbook
+    image: iesgn/guestbook
+    restart: always
+    ports:
+      - 80:5000
+  guestbook_db:
+    container_name: redis
+    image: redis
+    restart: always
