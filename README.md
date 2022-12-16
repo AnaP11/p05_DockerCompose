@@ -29,7 +29,7 @@ Cabe decir que el proceso de creación de los escenarios se realizó exitosament
 Para la ejecución de los comandos necesarios, puedes utilizar una terminal desde Visual Studio Code, la cual puede resultarte más intuitiva (y es altamente recomendable en este caso). En este caso, también podrás descargar la extensión Docker y la de Dev Containers, ambas de Microsoft, en el caso de que desees experimentar todas las características de Docker de una forma incluso más sencilla e intuitiva.
 
 ¡Ahora mismo puedes clonar este repositorio en tu repositorio local!
-(Puedes utilizar la aplicación Git-Bash)
+Puedes utilizar la aplicación [Git-Bash](https://github.com/git-for-windows/git/releases/tag/v2.38.0.windows.1)
 
 
 Una vez iniciadas las anteriores aplicaciones, a continuación abre una terminal en Visual Studio Code y ubícate en el directorio donde has clonado este repositorio mediante ``cd [la\ruta\al\directorio]``
@@ -49,4 +49,4 @@ A partir de aquí, deberás ejecutar una serie de comandos dependiendo de la apl
 ***
 # ACERCA DE
 
-Practica correspondiente al módulo de Despliegue de Aplicaciones Web (2º del CFGS de Desarrollo de Apicaciones Web)
+Práctica correspondiente al módulo de Despliegue de Aplicaciones Web (2º del CFGS de Desarrollo de Aplicaciones Web)
